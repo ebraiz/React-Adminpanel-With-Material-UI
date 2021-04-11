@@ -1,12 +1,6 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "Post One1",
-      "body": "This is the post number one",
-      "publishedAt": "10-01-2021"
-    },
-    {
       "id": "2",
       "title": "Post Two",
       "body": "This is the post number two",
@@ -30,6 +24,11 @@
       "name": "sdasd2222",
       "email": "asdasdasd@ssdf.com",
       "id": 1
+    },
+    {
+      "name": "rwer",
+      "email": "werwer@sdfsdf.co",
+      "id": 2
     }
   ]
 }
